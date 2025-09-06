@@ -1,0 +1,31 @@
+proveedor_id,nombre,tipo,ciudad,zona_cobertura,tiene_api,tiempo_entrega_dias,pedido_minimo,calificacion,nivel_precio,activo,fecha_alta
+1,Madera S.C.,distribuidor,San Abel los altos,Nacional,False,11,1430.35,2.93,economico,False,2020-11-07
+2,"Club Lara, Cortez y Hernández",distribuidor,Vieja Venezuela,CDMX,False,14,1313.62,4.96,premium,True,2024-06-24
+3,Corporacin Pabón y Saldivar,mayorista,San Elvia los bajos,Sur,True,6,3951.41,4.99,premium,False,2022-05-29
+4,Abreu-Pizarro,fabricante,San Pamela de la Montaña,Centro,False,13,1601.82,3.47,premium,True,2025-08-20
+5,Proyectos Pizarro-Haro,distribuidor,Vieja Argelia,CDMX,True,3,4688.12,2.77,premium,False,2021-04-08
+6,Pichardo-Linares,distribuidor,San Elsa los altos,Norte,False,6,2151.03,3.29,premium,True,2022-11-08
+7,"Laboratorios Caraballo, Garza y Ramón",mayorista,San Hugo los bajos,CDMX,True,5,1002.35,3.54,medio,False,2025-04-09
+8,Haro-Garibay y Asociados,distribuidor,Vieja Swazilandia,Sur,True,7,1403.57,4.27,economico,False,2022-01-13
+9,"Zaragoza, Arguello y Rodríquez",mayorista,Vieja Madagascar,Centro,False,13,1058.41,3.28,premium,False,2021-01-19
+10,"Menéndez, Mesa y Vázquez",fabricante,San Socorro de la Montaña,Sur,False,3,640.5,2.55,medio,True,2022-05-30
+11,"Grupo Saiz, Báez y Lugo",fabricante,Vieja Alemania,Norte,False,13,1547.85,2.51,premium,True,2024-05-06
+12,"Rojas, Briseño y Acevedo",mayorista,San Estela los altos,CDMX,False,5,1941.38,3.55,medio,False,2025-08-29
+13,"Segura, Reyna y Reyna",distribuidor,San Enrique los altos,Sur,True,4,3650.76,3.02,medio,True,2021-07-25
+14,Ballesteros-Amaya S. R.L. de C.V.,fabricante,Nueva Lituania,Norte,True,8,1330.45,2.97,premium,True,2024-05-24
+15,Club Macías-Rivas,fabricante,San Alfredo los altos,Sur,False,5,1647.91,4.67,medio,False,2022-07-06
+16,Aguayo S. R.L. de C.V.,mayorista,Nueva Santo Tomé y Príncipe,Nacional,False,14,514.56,4.19,premium,True,2023-10-03
+17,Proyectos Almonte y Amador,distribuidor,San Nicolás de la Montaña,Sur,False,8,4986.17,4.22,premium,True,2024-06-25
+18,Cuellar S.A.,mayorista,Nueva Timor-Leste,Nacional,True,4,1241.82,3.3,medio,True,2023-12-21
+19,Grupo Nevárez y Partida,distribuidor,San Uriel los altos,CDMX,True,14,4892.46,4.44,medio,True,2025-05-21
+20,Zelaya y Méndez S.A. de C.V.,distribuidor,San Silvia los bajos,Norte,False,3,4086.43,3.64,economico,False,2021-05-04
+21,Club Llamas y Meraz,fabricante,Vieja Uganda,Norte,True,10,856.69,4.92,premium,False,2023-02-03
+22,Pichardo-Briseño A.C.,mayorista,San Claudio de la Montaña,Norte,False,11,2764.27,3.64,medio,True,2025-08-25
+23,Macías-Arguello,distribuidor,Nueva Timor-Leste,CDMX,True,13,2259.48,4.06,economico,False,2025-04-19
+24,Club Villegas y Pacheco,mayorista,San Felix los bajos,Sur,True,8,4017.41,2.97,premium,True,2021-11-06
+25,Club Palomino-Saiz,distribuidor,Nueva China,Centro,True,9,1561.56,2.65,premium,False,2021-10-20
+26,Olivares S.A. de C.V.,fabricante,Vieja Suiza,Centro,True,8,1619.44,3.2,premium,True,2024-05-06
+27,Castro S. R.L. de C.V.,fabricante,Nueva Uruguay,CDMX,False,14,2767.22,2.71,medio,True,2023-06-27
+28,Guillen y Terán S.A. de C.V.,distribuidor,Nueva República de Macedonia del Norte,Centro,True,2,3253.11,2.91,medio,True,2025-08-16
+29,"Industrias Santana, Núñez y Matos",mayorista,San Eric los altos,Nacional,True,10,4205.31,4.24,premium,False,2020-12-25
+30,Saldaña-Ledesma S.A. de C.V.,mayorista,San Yolanda los altos,Nacional,True,6,2356.3,2.7,medio,False,2022-02-16

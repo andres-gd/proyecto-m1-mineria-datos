@@ -1,0 +1,21 @@
+categoria_id,nivel1,nivel2,nivel3,nombre_completo,es_perecedero,volatilidad_tipica,margen_tipico,frecuencia_compra,estacionalidad
+1,Alimentos,Aceites y Vinagres,Aceite de Oliva,Alimentos > Aceites y Vinagres > Aceite de Oliva,True,media,alto_20,mensual,todo_año
+2,Alimentos,Lácteos,Leche,Alimentos > Lácteos > Leche,True,media,medio_10,diaria,todo_año
+3,Bebidas,Refrescos,Gaseosa,Bebidas > Refrescos > Gaseosa,False,baja,medio_10,semanal,todo_año
+4,Snacks,Botanas,Papas Fritas,Snacks > Botanas > Papas Fritas,False,alta,alto_20,semanal,fiestas
+5,Limpieza,Detergentes,Polvo,Limpieza > Detergentes > Polvo,False,media,bajo_5,mensual,todo_año
+6,Panadería,Pan de Caja,Integral,Panadería > Pan de Caja > Integral,True,alta,medio_10,diaria,todo_año
+7,Abarrotes,Enlatados,Verduras,Abarrotes > Enlatados > Verduras,False,baja,medio_10,mensual,todo_año
+8,Congelados,Carnes,Pollo,Congelados > Carnes > Pollo,True,alta,alto_20,semanal,invierno
+9,Cereales,Cajas,Corn Flakes,Cereales > Cajas > Corn Flakes,False,media,medio_10,semanal,todo_año
+10,Higiene,Cuidado Personal,Shampoo,Higiene > Cuidado Personal > Shampoo,False,baja,alto_20,mensual,todo_año
+11,Alimentos,Salsas,Salsa de Tomate,Alimentos > Salsas > Salsa de Tomate,True,alta,medio_10,semanal,todo_año
+12,Alimentos,Carnes Frías,Jamón,Alimentos > Carnes Frías > Jamón,True,alta,alto_20,semanal,todo_año
+13,Bebidas,Jugos,Naranja,Bebidas > Jugos > Naranja,True,media,medio_10,diaria,verano
+14,Bebidas,Energéticas,Estimulante,Bebidas > Energéticas > Estimulante,False,alta,alto_20,semanal,todo_año
+15,Snacks,Galletas,Chocolate,Snacks > Galletas > Chocolate,False,alta,medio_10,semanal,fiestas
+16,Limpieza,Suavizantes,Ropa,Limpieza > Suavizantes > Ropa,False,media,bajo_5,mensual,todo_año
+17,Higiene,Jabones,De Barra,Higiene > Jabones > De Barra,False,media,bajo_5,mensual,todo_año
+18,Abarrotes,Arroz y Granos,Arroz,Abarrotes > Arroz y Granos > Arroz,False,media,medio_10,mensual,todo_año
+19,Congelados,Helados,Vainilla,Congelados > Helados > Vainilla,True,alta,medio_10,semanal,verano
+20,Panadería,Pasteles,Chocolate,Panadería > Pasteles > Chocolate,True,alta,alto_20,semanal,fiestas

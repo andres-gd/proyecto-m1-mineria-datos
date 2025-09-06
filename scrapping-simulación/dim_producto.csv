@@ -1,0 +1,201 @@
+producto_id,sku,nombre,nombre_corto,marca,categoria_id,tamaño,unidad_medida,tipo_rotacion,es_perecedero,requiere_frio
+1,PRD-0001,Kellogg’s Salsa de Tomate 1L,Salsa de Tomate 1L,Kellogg’s,11,1L,paquete,baja,True,False
+2,PRD-0002,Vim Chocolate 2L,Chocolate 2L,Vim,15,2L,mililitro,baja,False,False
+3,PRD-0003,Herdez Corn Flakes 3L,Corn Flakes 3L,Herdez,9,3L,pieza,baja,False,False
+4,PRD-0004,Monster Chocolate 750g,Chocolate 750g,Monster,15,750g,mililitro,media,False,False
+5,PRD-0005,Oxxo Polvo 500g,Polvo 500g,Oxxo,5,500g,gramo,alta,False,False
+6,PRD-0006,Gamesa Ropa 500g,Ropa 500g,Gamesa,16,500g,gramo,baja,False,False
+7,PRD-0007,Vim Integral 2kg,Integral 2kg,Vim,6,2kg,litro,media,True,False
+8,PRD-0008,Vim De Barra 2L,De Barra 2L,Vim,17,2L,paquete,alta,False,False
+9,PRD-0009,Colgate Estimulante 6 piezas,Estimulante 6 piezas,Colgate,14,6 piezas,litro,baja,False,False
+10,PRD-0010,Colgate Estimulante 1.5L,Estimulante 1.5L,Colgate,14,1.5L,mililitro,media,False,False
+11,PRD-0011,Santa Clara Gaseosa 500ml,Gaseosa 500ml,Santa Clara,3,500ml,mililitro,media,False,False
+12,PRD-0012,Danone Polvo 5L,Polvo 5L,Danone,5,5L,pieza,media,False,False
+13,PRD-0013,Electrolit De Barra 1.5L,De Barra 1.5L,Electrolit,17,1.5L,pieza,baja,False,False
+14,PRD-0014,Del Monte Ropa 500g,Ropa 500g,Del Monte,16,500g,kilogramo,media,False,False
+15,PRD-0015,Herdez Chocolate 250ml,Chocolate 250ml,Herdez,15,250ml,litro,media,False,False
+16,PRD-0016,Nestlé Integral 24 piezas,Integral 24 piezas,Nestlé,6,24 piezas,gramo,media,True,True
+17,PRD-0017,Knorr De Barra 3L,De Barra 3L,Knorr,17,3L,mililitro,media,False,False
+18,PRD-0018,Monster Arroz 200g,Arroz 200g,Monster,18,200g,pieza,media,False,False
+19,PRD-0019,Powerade Vainilla 6 piezas,Vainilla 6 piezas,Powerade,19,6 piezas,pieza,media,True,True
+20,PRD-0020,Nescafé Chocolate 6 piezas,Chocolate 6 piezas,Nescafé,15,6 piezas,kilogramo,alta,False,False
+21,PRD-0021,Zote Aceite de Oliva 400g,Aceite de Oliva 400g,Zote,1,400g,litro,baja,True,False
+22,PRD-0022,Electrolit Shampoo 500ml,Shampoo 500ml,Electrolit,10,500ml,pieza,media,False,False
+23,PRD-0023,Kellogg’s Corn Flakes 5L,Corn Flakes 5L,Kellogg’s,9,5L,paquete,media,False,False
+24,PRD-0024,Nescafé Shampoo 250ml,Shampoo 250ml,Nescafé,10,250ml,kilogramo,baja,False,False
+25,PRD-0025,Bonafont Estimulante 3L,Estimulante 3L,Bonafont,14,3L,paquete,alta,False,False
+26,PRD-0026,Gatorade Salsa de Tomate 500ml,Salsa de Tomate 500ml,Gatorade,11,500ml,gramo,media,True,True
+27,PRD-0027,Gamesa Leche 200g,Leche 200g,Gamesa,2,200g,pieza,alta,True,True
+28,PRD-0028,Oxxo Estimulante 2kg,Estimulante 2kg,Oxxo,14,2kg,paquete,baja,False,False
+29,PRD-0029,Ciel Shampoo 1kg,Shampoo 1kg,Ciel,10,1kg,kilogramo,baja,False,False
+30,PRD-0030,Gamesa Arroz 500ml,Arroz 500ml,Gamesa,18,500ml,paquete,baja,False,False
+31,PRD-0031,Barcel Leche 200g,Leche 200g,Barcel,2,200g,mililitro,alta,True,False
+32,PRD-0032,Gatorade Naranja 750g,Naranja 750g,Gatorade,13,750g,pieza,media,True,True
+33,PRD-0033,Nestlé De Barra 1L,De Barra 1L,Nestlé,17,1L,paquete,baja,False,False
+34,PRD-0034,Nescafé Ropa 1L,Ropa 1L,Nescafé,16,1L,mililitro,alta,False,False
+35,PRD-0035,Zote Jamón 1L,Jamón 1L,Zote,12,1L,gramo,media,True,False
+36,PRD-0036,Barcel Aceite de Oliva 400g,Aceite de Oliva 400g,Barcel,1,400g,pieza,alta,True,False
+37,PRD-0037,Nestlé Verduras 3L,Verduras 3L,Nestlé,7,3L,litro,media,False,False
+38,PRD-0038,Jumex Vainilla 6 piezas,Vainilla 6 piezas,Jumex,19,6 piezas,paquete,media,True,False
+39,PRD-0039,Powerade Gaseosa 200g,Gaseosa 200g,Powerade,3,200g,pieza,alta,False,False
+40,PRD-0040,Herdez Corn Flakes 1kg,Corn Flakes 1kg,Herdez,9,1kg,litro,alta,False,False
+41,PRD-0041,NutriLeche Integral 5L,Integral 5L,NutriLeche,6,5L,paquete,media,True,False
+42,PRD-0042,Suavitel Estimulante 3L,Estimulante 3L,Suavitel,14,3L,litro,alta,False,False
+43,PRD-0043,Electrolit Vainilla 12 piezas,Vainilla 12 piezas,Electrolit,19,12 piezas,gramo,baja,True,True
+44,PRD-0044,Gamesa Chocolate 1kg,Chocolate 1kg,Gamesa,15,1kg,gramo,media,False,False
+45,PRD-0045,Alpura De Barra 500g,De Barra 500g,Alpura,17,500g,litro,baja,False,False
+46,PRD-0046,Colgate Jamón 1kg,Jamón 1kg,Colgate,12,1kg,litro,media,True,False
+47,PRD-0047,Jumex Papas Fritas 3L,Papas Fritas 3L,Jumex,4,3L,litro,baja,False,False
+48,PRD-0048,Nestlé Estimulante 1L,Estimulante 1L,Nestlé,14,1L,gramo,alta,False,False
+49,PRD-0049,Oxxo Naranja 400g,Naranja 400g,Oxxo,13,400g,pieza,baja,True,True
+50,PRD-0050,Electrolit Corn Flakes 500ml,Corn Flakes 500ml,Electrolit,9,500ml,pieza,media,False,False
+51,PRD-0051,Great Value Gaseosa 5L,Gaseosa 5L,Great Value,3,5L,litro,alta,False,False
+52,PRD-0052,Red Bull Polvo 750g,Polvo 750g,Red Bull,5,750g,pieza,alta,False,False
+53,PRD-0053,Oxxo Gaseosa 3L,Gaseosa 3L,Oxxo,3,3L,kilogramo,media,False,False
+54,PRD-0054,NutriLeche Chocolate 2kg,Chocolate 2kg,NutriLeche,15,2kg,litro,alta,False,False
+55,PRD-0055,Powerade Integral 6 piezas,Integral 6 piezas,Powerade,6,6 piezas,kilogramo,alta,True,True
+56,PRD-0056,Barcel Integral 1.5L,Integral 1.5L,Barcel,6,1.5L,litro,media,True,False
+57,PRD-0057,Suavitel De Barra 1.5L,De Barra 1.5L,Suavitel,17,1.5L,kilogramo,media,False,False
+58,PRD-0058,Palmolive Integral 24 piezas,Integral 24 piezas,Palmolive,6,24 piezas,gramo,alta,True,False
+59,PRD-0059,Ariel Jamón 400g,Jamón 400g,Ariel,12,400g,litro,baja,True,False
+60,PRD-0060,Gatorade Jamón 200g,Jamón 200g,Gatorade,12,200g,litro,baja,True,False
+61,PRD-0061,Jumex De Barra 2kg,De Barra 2kg,Jumex,17,2kg,kilogramo,baja,False,False
+62,PRD-0062,Del Monte Chocolate 2L,Chocolate 2L,Del Monte,20,2L,kilogramo,baja,True,True
+63,PRD-0063,Suavitel Verduras 750g,Verduras 750g,Suavitel,7,750g,mililitro,baja,False,False
+64,PRD-0064,Great Value Papas Fritas 1.5L,Papas Fritas 1.5L,Great Value,4,1.5L,mililitro,baja,False,False
+65,PRD-0065,Gatorade Leche 1kg,Leche 1kg,Gatorade,2,1kg,mililitro,alta,True,True
+66,PRD-0066,Gatorade Naranja 500g,Naranja 500g,Gatorade,13,500g,pieza,media,True,False
+67,PRD-0067,7-Eleven Ropa 1.5L,Ropa 1.5L,7-Eleven,16,1.5L,mililitro,baja,False,False
+68,PRD-0068,Gatorade Corn Flakes 24 piezas,Corn Flakes 24 piezas,Gatorade,9,24 piezas,pieza,media,False,False
+69,PRD-0069,Pepsi Integral 200g,Integral 200g,Pepsi,6,200g,paquete,media,True,True
+70,PRD-0070,Gatorade Salsa de Tomate 1.5L,Salsa de Tomate 1.5L,Gatorade,11,1.5L,pieza,alta,True,False
+71,PRD-0071,McCormick Chocolate 1L,Chocolate 1L,McCormick,20,1L,kilogramo,alta,True,True
+72,PRD-0072,Pepsi Vainilla 2kg,Vainilla 2kg,Pepsi,19,2kg,pieza,alta,True,False
+73,PRD-0073,Gatorade Chocolate 500ml,Chocolate 500ml,Gatorade,15,500ml,pieza,media,False,False
+74,PRD-0074,Persil Salsa de Tomate 200g,Salsa de Tomate 200g,Persil,11,200g,mililitro,alta,True,False
+75,PRD-0075,Powerade Salsa de Tomate 250ml,Salsa de Tomate 250ml,Powerade,11,250ml,pieza,baja,True,False
+76,PRD-0076,NutriLeche Corn Flakes 6 piezas,Corn Flakes 6 piezas,NutriLeche,9,6 piezas,gramo,baja,False,False
+77,PRD-0077,Del Monte Ropa 750g,Ropa 750g,Del Monte,16,750g,mililitro,baja,False,False
+78,PRD-0078,Ariel Integral 3L,Integral 3L,Ariel,6,3L,gramo,baja,True,False
+79,PRD-0079,Ariel Pollo 12 piezas,Pollo 12 piezas,Ariel,8,12 piezas,paquete,media,True,True
+80,PRD-0080,Suavitel Salsa de Tomate 1.5L,Salsa de Tomate 1.5L,Suavitel,11,1.5L,gramo,media,True,False
+81,PRD-0081,Pepsi Jamón 24 piezas,Jamón 24 piezas,Pepsi,12,24 piezas,pieza,alta,True,False
+82,PRD-0082,Suavitel Chocolate 1kg,Chocolate 1kg,Suavitel,20,1kg,kilogramo,media,True,False
+83,PRD-0083,Gatorade Papas Fritas 5L,Papas Fritas 5L,Gatorade,4,5L,kilogramo,media,False,False
+84,PRD-0084,7-Eleven Chocolate 12 piezas,Chocolate 12 piezas,7-Eleven,20,12 piezas,gramo,media,True,False
+85,PRD-0085,Oxxo Pollo 500g,Pollo 500g,Oxxo,8,500g,pieza,baja,True,False
+86,PRD-0086,Del Monte De Barra 3L,De Barra 3L,Del Monte,17,3L,gramo,baja,False,False
+87,PRD-0087,Vim Shampoo 2L,Shampoo 2L,Vim,10,2L,pieza,media,False,False
+88,PRD-0088,Alpura Corn Flakes 5L,Corn Flakes 5L,Alpura,9,5L,paquete,alta,False,False
+89,PRD-0089,Nestlé Estimulante 24 piezas,Estimulante 24 piezas,Nestlé,14,24 piezas,litro,baja,False,False
+90,PRD-0090,Cloralex De Barra 6 piezas,De Barra 6 piezas,Cloralex,17,6 piezas,litro,media,False,False
+91,PRD-0091,Nestlé Aceite de Oliva 1L,Aceite de Oliva 1L,Nestlé,1,1L,gramo,alta,True,False
+92,PRD-0092,Red Bull Arroz 2kg,Arroz 2kg,Red Bull,18,2kg,paquete,baja,False,False
+93,PRD-0093,NutriLeche Jamón 3L,Jamón 3L,NutriLeche,12,3L,kilogramo,baja,True,True
+94,PRD-0094,Persil Jamón 1.5L,Jamón 1.5L,Persil,12,1.5L,mililitro,baja,True,False
+95,PRD-0095,Coca-Cola Salsa de Tomate 1L,Salsa de Tomate 1L,Coca-Cola,11,1L,kilogramo,alta,True,True
+96,PRD-0096,Vim Estimulante 400g,Estimulante 400g,Vim,14,400g,kilogramo,baja,False,False
+97,PRD-0097,Monster Naranja 6 piezas,Naranja 6 piezas,Monster,13,6 piezas,paquete,baja,True,False
+98,PRD-0098,Coca-Cola Jamón 12 piezas,Jamón 12 piezas,Coca-Cola,12,12 piezas,mililitro,alta,True,True
+99,PRD-0099,Great Value Verduras 24 piezas,Verduras 24 piezas,Great Value,7,24 piezas,gramo,baja,False,False
+100,PRD-0100,Vim Chocolate 6 piezas,Chocolate 6 piezas,Vim,20,6 piezas,litro,media,True,True
+101,PRD-0101,Great Value Shampoo 200g,Shampoo 200g,Great Value,10,200g,mililitro,alta,False,False
+102,PRD-0102,Lala Chocolate 400g,Chocolate 400g,Lala,15,400g,pieza,baja,False,False
+103,PRD-0103,Nescafé Corn Flakes 2kg,Corn Flakes 2kg,Nescafé,9,2kg,kilogramo,alta,False,False
+104,PRD-0104,Gamesa Leche 2L,Leche 2L,Gamesa,2,2L,gramo,alta,True,False
+105,PRD-0105,McCormick Arroz 24 piezas,Arroz 24 piezas,McCormick,18,24 piezas,mililitro,baja,False,False
+106,PRD-0106,Barcel Leche 6 piezas,Leche 6 piezas,Barcel,2,6 piezas,gramo,media,True,True
+107,PRD-0107,Danone Naranja 3L,Naranja 3L,Danone,13,3L,kilogramo,baja,True,True
+108,PRD-0108,Gamesa Verduras 2kg,Verduras 2kg,Gamesa,7,2kg,paquete,alta,False,False
+109,PRD-0109,Suavitel Chocolate 400g,Chocolate 400g,Suavitel,20,400g,mililitro,baja,True,False
+110,PRD-0110,Santa Clara Arroz 1L,Arroz 1L,Santa Clara,18,1L,litro,alta,False,False
+111,PRD-0111,Knorr Vainilla 2L,Vainilla 2L,Knorr,19,2L,paquete,alta,True,False
+112,PRD-0112,Vim Gaseosa 1kg,Gaseosa 1kg,Vim,3,1kg,pieza,alta,False,False
+113,PRD-0113,Monster Chocolate 2L,Chocolate 2L,Monster,20,2L,litro,alta,True,False
+114,PRD-0114,7-Eleven Chocolate 1.5L,Chocolate 1.5L,7-Eleven,20,1.5L,pieza,media,True,False
+115,PRD-0115,Zote Aceite de Oliva 500ml,Aceite de Oliva 500ml,Zote,1,500ml,litro,media,True,True
+116,PRD-0116,Cloralex De Barra 2kg,De Barra 2kg,Cloralex,17,2kg,paquete,media,False,False
+117,PRD-0117,Bimbo Aceite de Oliva 1kg,Aceite de Oliva 1kg,Bimbo,1,1kg,pieza,alta,True,False
+118,PRD-0118,Alpura Aceite de Oliva 1.5L,Aceite de Oliva 1.5L,Alpura,1,1.5L,mililitro,alta,True,True
+119,PRD-0119,Danone Corn Flakes 2kg,Corn Flakes 2kg,Danone,9,2kg,pieza,baja,False,False
+120,PRD-0120,Suavitel De Barra 500g,De Barra 500g,Suavitel,17,500g,mililitro,baja,False,False
+121,PRD-0121,Maruchan Arroz 6 piezas,Arroz 6 piezas,Maruchan,18,6 piezas,kilogramo,media,False,False
+122,PRD-0122,Bimbo Leche 750g,Leche 750g,Bimbo,2,750g,mililitro,media,True,True
+123,PRD-0123,Maruchan Ropa 250ml,Ropa 250ml,Maruchan,16,250ml,pieza,media,False,False
+124,PRD-0124,Maruchan Salsa de Tomate 250ml,Salsa de Tomate 250ml,Maruchan,11,250ml,litro,baja,True,True
+125,PRD-0125,Maruchan Leche 6 piezas,Leche 6 piezas,Maruchan,2,6 piezas,gramo,baja,True,False
+126,PRD-0126,Jumex Salsa de Tomate 1kg,Salsa de Tomate 1kg,Jumex,11,1kg,paquete,media,True,True
+127,PRD-0127,Lala Leche 1L,Leche 1L,Lala,2,1L,paquete,baja,True,False
+128,PRD-0128,Ariel Gaseosa 500ml,Gaseosa 500ml,Ariel,3,500ml,mililitro,media,False,False
+129,PRD-0129,Pepsi Estimulante 24 piezas,Estimulante 24 piezas,Pepsi,14,24 piezas,litro,alta,False,False
+130,PRD-0130,Nescafé Polvo 750g,Polvo 750g,Nescafé,5,750g,gramo,baja,False,False
+131,PRD-0131,7-Eleven Naranja 200g,Naranja 200g,7-Eleven,13,200g,mililitro,media,True,True
+132,PRD-0132,Monster Papas Fritas 400g,Papas Fritas 400g,Monster,4,400g,pieza,baja,False,False
+133,PRD-0133,Powerade Salsa de Tomate 1.5L,Salsa de Tomate 1.5L,Powerade,11,1.5L,mililitro,alta,True,True
+134,PRD-0134,La Costeña Verduras 750g,Verduras 750g,La Costeña,7,750g,paquete,media,False,False
+135,PRD-0135,Great Value De Barra 200g,De Barra 200g,Great Value,17,200g,kilogramo,media,False,False
+136,PRD-0136,Herdez Chocolate 200g,Chocolate 200g,Herdez,20,200g,litro,media,True,True
+137,PRD-0137,Barcel Salsa de Tomate 1L,Salsa de Tomate 1L,Barcel,11,1L,kilogramo,media,True,True
+138,PRD-0138,Colgate Jamón 6 piezas,Jamón 6 piezas,Colgate,12,6 piezas,gramo,alta,True,True
+139,PRD-0139,Colgate Verduras 3L,Verduras 3L,Colgate,7,3L,litro,baja,False,False
+140,PRD-0140,Pepsi Ropa 400g,Ropa 400g,Pepsi,16,400g,pieza,alta,False,False
+141,PRD-0141,Heinz Estimulante 12 piezas,Estimulante 12 piezas,Heinz,14,12 piezas,pieza,baja,False,False
+142,PRD-0142,Nescafé Verduras 1.5L,Verduras 1.5L,Nescafé,7,1.5L,pieza,baja,False,False
+143,PRD-0143,Monster De Barra 750g,De Barra 750g,Monster,17,750g,pieza,alta,False,False
+144,PRD-0144,7-Eleven Pollo 400g,Pollo 400g,7-Eleven,8,400g,paquete,baja,True,False
+145,PRD-0145,Oxxo Estimulante 24 piezas,Estimulante 24 piezas,Oxxo,14,24 piezas,pieza,alta,False,False
+146,PRD-0146,Colgate Integral 500g,Integral 500g,Colgate,6,500g,pieza,alta,True,True
+147,PRD-0147,McCormick Vainilla 1kg,Vainilla 1kg,McCormick,19,1kg,kilogramo,baja,True,False
+148,PRD-0148,Cloralex Leche 2L,Leche 2L,Cloralex,2,2L,mililitro,alta,True,True
+149,PRD-0149,Danone Naranja 6 piezas,Naranja 6 piezas,Danone,13,6 piezas,litro,alta,True,False
+150,PRD-0150,Del Monte Polvo 6 piezas,Polvo 6 piezas,Del Monte,5,6 piezas,litro,media,False,False
+151,PRD-0151,Ariel Aceite de Oliva 250ml,Aceite de Oliva 250ml,Ariel,1,250ml,paquete,media,True,False
+152,PRD-0152,Oxxo Verduras 500ml,Verduras 500ml,Oxxo,7,500ml,pieza,alta,False,False
+153,PRD-0153,Bonafont Chocolate 12 piezas,Chocolate 12 piezas,Bonafont,15,12 piezas,litro,alta,False,False
+154,PRD-0154,Lala Chocolate 24 piezas,Chocolate 24 piezas,Lala,20,24 piezas,litro,media,True,False
+155,PRD-0155,Ariel De Barra 500g,De Barra 500g,Ariel,17,500g,paquete,baja,False,False
+156,PRD-0156,Heinz Pollo 400g,Pollo 400g,Heinz,8,400g,pieza,baja,True,False
+157,PRD-0157,Ciel Shampoo 1kg,Shampoo 1kg,Ciel,10,1kg,litro,media,False,False
+158,PRD-0158,7-Eleven Integral 1L,Integral 1L,7-Eleven,6,1L,litro,baja,True,False
+159,PRD-0159,Knorr Pollo 24 piezas,Pollo 24 piezas,Knorr,8,24 piezas,gramo,media,True,True
+160,PRD-0160,Ariel Aceite de Oliva 1L,Aceite de Oliva 1L,Ariel,1,1L,mililitro,alta,True,False
+161,PRD-0161,Palmolive Vainilla 1kg,Vainilla 1kg,Palmolive,19,1kg,pieza,media,True,True
+162,PRD-0162,Zote Integral 2kg,Integral 2kg,Zote,6,2kg,gramo,media,True,False
+163,PRD-0163,Red Bull Verduras 2kg,Verduras 2kg,Red Bull,7,2kg,paquete,baja,False,False
+164,PRD-0164,Nestlé Leche 1kg,Leche 1kg,Nestlé,2,1kg,paquete,baja,True,False
+165,PRD-0165,Oxxo Polvo 2L,Polvo 2L,Oxxo,5,2L,mililitro,alta,False,False
+166,PRD-0166,Del Monte Leche 2kg,Leche 2kg,Del Monte,2,2kg,gramo,media,True,True
+167,PRD-0167,Bonafont Ropa 400g,Ropa 400g,Bonafont,16,400g,litro,alta,False,False
+168,PRD-0168,Ciel Pollo 1kg,Pollo 1kg,Ciel,8,1kg,litro,baja,True,False
+169,PRD-0169,Barcel Verduras 1kg,Verduras 1kg,Barcel,7,1kg,kilogramo,baja,False,False
+170,PRD-0170,Colgate Aceite de Oliva 1kg,Aceite de Oliva 1kg,Colgate,1,1kg,litro,media,True,False
+171,PRD-0171,Great Value Verduras 2kg,Verduras 2kg,Great Value,7,2kg,paquete,baja,False,False
+172,PRD-0172,Del Monte Ropa 1L,Ropa 1L,Del Monte,16,1L,paquete,baja,False,False
+173,PRD-0173,NutriLeche Leche 1kg,Leche 1kg,NutriLeche,2,1kg,paquete,baja,True,True
+174,PRD-0174,McCormick Vainilla 2L,Vainilla 2L,McCormick,19,2L,mililitro,media,True,False
+175,PRD-0175,Danone Polvo 250ml,Polvo 250ml,Danone,5,250ml,paquete,baja,False,False
+176,PRD-0176,Persil Gaseosa 250ml,Gaseosa 250ml,Persil,3,250ml,litro,baja,False,False
+177,PRD-0177,Red Bull Salsa de Tomate 400g,Salsa de Tomate 400g,Red Bull,11,400g,paquete,baja,True,True
+178,PRD-0178,Pepsi Integral 1kg,Integral 1kg,Pepsi,6,1kg,pieza,alta,True,False
+179,PRD-0179,Palmolive Chocolate 5L,Chocolate 5L,Palmolive,15,5L,pieza,alta,False,False
+180,PRD-0180,Cloralex Chocolate 250ml,Chocolate 250ml,Cloralex,20,250ml,kilogramo,alta,True,False
+181,PRD-0181,7-Eleven Salsa de Tomate 24 piezas,Salsa de Tomate 24 piezas,7-Eleven,11,24 piezas,mililitro,baja,True,False
+182,PRD-0182,Alpura Estimulante 1L,Estimulante 1L,Alpura,14,1L,gramo,media,False,False
+183,PRD-0183,Herdez Papas Fritas 5L,Papas Fritas 5L,Herdez,4,5L,mililitro,alta,False,False
+184,PRD-0184,Bonafont Corn Flakes 1.5L,Corn Flakes 1.5L,Bonafont,9,1.5L,litro,baja,False,False
+185,PRD-0185,Gatorade Shampoo 400g,Shampoo 400g,Gatorade,10,400g,litro,alta,False,False
+186,PRD-0186,McCormick Polvo 400g,Polvo 400g,McCormick,5,400g,gramo,baja,False,False
+187,PRD-0187,Del Monte Jamón 250ml,Jamón 250ml,Del Monte,12,250ml,litro,media,True,False
+188,PRD-0188,Heinz Polvo 1.5L,Polvo 1.5L,Heinz,5,1.5L,paquete,alta,False,False
+189,PRD-0189,Danone Ropa 3L,Ropa 3L,Danone,16,3L,paquete,baja,False,False
+190,PRD-0190,Persil Chocolate 3L,Chocolate 3L,Persil,20,3L,pieza,baja,True,False
+191,PRD-0191,Knorr Chocolate 1L,Chocolate 1L,Knorr,20,1L,kilogramo,media,True,True
+192,PRD-0192,Santa Clara Shampoo 250ml,Shampoo 250ml,Santa Clara,10,250ml,gramo,baja,False,False
+193,PRD-0193,Alpura Integral 6 piezas,Integral 6 piezas,Alpura,6,6 piezas,litro,media,True,True
+194,PRD-0194,Del Monte Salsa de Tomate 2kg,Salsa de Tomate 2kg,Del Monte,11,2kg,pieza,baja,True,False
+195,PRD-0195,McCormick Ropa 500g,Ropa 500g,McCormick,16,500g,litro,alta,False,False
+196,PRD-0196,Kellogg’s Salsa de Tomate 500g,Salsa de Tomate 500g,Kellogg’s,11,500g,kilogramo,media,True,True
+197,PRD-0197,Maruchan Integral 2L,Integral 2L,Maruchan,6,2L,paquete,media,True,True
+198,PRD-0198,Gamesa Jamón 12 piezas,Jamón 12 piezas,Gamesa,12,12 piezas,kilogramo,media,True,True
+199,PRD-0199,Pepsi Gaseosa 12 piezas,Gaseosa 12 piezas,Pepsi,3,12 piezas,mililitro,baja,False,False
+200,PRD-0200,Del Monte Aceite de Oliva 12 piezas,Aceite de Oliva 12 piezas,Del Monte,1,12 piezas,paquete,baja,True,True
